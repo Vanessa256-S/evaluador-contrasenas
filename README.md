@@ -2,7 +2,6 @@
 
 Python script that analyzes whether a password entered by the user is **secure or weak**, based on standard security criteria, with the option to retry until a strong password is achieved.
 
-Developed for the **Ethical Hacking course — 9th Semester**.
 
 ---
 
